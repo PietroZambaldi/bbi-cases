@@ -1,0 +1,105 @@
+VALE S.A. (VALE3) — Q4 2024 EARNINGS CALL TRANSCRIPT
+Data: 20 de fevereiro de 2025
+Fonte: The Motley Fool / Vale IR
+Empresa: Vale S.A. | Ticker Bovespa: VALE3
+
+=== PARTICIPANTES ===
+Executivos da Vale:
+- Gustavo Pimenta (CEO)
+- Marcelo Bacci (EVP Finanças e RI — primeiro call)
+- Rogerio Nogueira (EVP Comercial e Desenvolvimento)
+- Carlos Medeiros (EVP Operações)
+- Shaun Usmar (CEO Vale Base Metals)
+
+Analistas:
+- Daniel Sasson (Itau BBA)
+- Carlos De Alba (Morgan Stanley)
+- Caio Ribeiro (Bank of America Merrill Lynch)
+
+=== ABERTURA ===
+
+Operator: Good morning, ladies and gentlemen. Welcome to Vale's fourth-quarter 2024 earnings call. This conference is being recorded, and the replay will be available on our website at vale.com. The presentation is also available for download in English and Portuguese from our website.
+
+We'd like to advise that forward-looking statements may be provided in this presentation, including Vale's expectations about future events or results. We caution you that forward-looking statements are not guarantees of future performance and involve risks and uncertainties.
+
+=== FALA DO CEO ===
+
+Gustavo Pimenta (CEO): Hello, everyone, and welcome to Vale's fourth-quarter 2024 conference call. At Vale Day, we laid out our 2030 vision with a clear focus on evolving our portfolio of assets to supply our clients' needs with a highly competitive cost profile. We also presented our initiatives to advance on our cultural transformation while positioning Vale as a trusted partner. I'm happy with the results we were able to achieve thus far and very optimistic about the future of Vale.
+
+We finished 2024 on a strong note. On safety, we lowered our injury frequency rate to 1.1% as a result of our continued focus to create an accident-free work environment. We have also achieved 57% of the upstream dam decharacterization program and expect to have no dams at level 3 by the end of 2025. We signed definitive agreements for the Mariana operation as well as for the rail concessions renewal.
+
+In our iron ore business, we delivered two of our three key projects. Vargem Grande started up in September ahead of schedule and on budget. And in December, we announced Capanema start-up, also ahead of schedule. Both projects add 30 million tons of low-cost production capacity.
+
+In base metals, we produced the first ore from the second deposit of the VBME project, an important milestone toward continued efficiency gains and fixed cost dilution in the nickel business. We have also made progress on strategic partnerships with the closing of our 15% acquisition of Minas-Rio as well as the initiation of construction of our concentration plant in Sohar, Oman, which is expected to come online in 2027.
+
+All these achievements demonstrate that we are on the right path to deliver on our 2030 vision.
+
+Now looking into our production performance. Iron ore production reached 328 million tons, the highest level since 2018 and above our original guidance. In the fourth quarter of 2024, we proactively shifted our portfolio mix, reducing direct sales of high silica material while increasing the share of high-quality products from Carajas. This resulted in higher realized iron ore premiums, but more importantly, higher margins and returns on invested capital.
+
+In Base Metals, we continue to make solid progress having achieved the highest copper production since 2020, driven by Salobo, which produced roughly 200 kilotons of copper in 2024.
+
+We remain highly committed to continue improving our cost competitiveness across the business. We are very confident on delivering our guidance again in 2025, positioning Vale at the very low end of the industry global cost curve.
+
+As a result of our focus on capex optimization, we have reduced our capex guidance for 2025 to $5.9 billion. In this context and given our strong confidence in a robust cash flow generation for 2025, our board of directors approved $2 billion in dividends and interest on capital resulting in an annualized 10% yield. The board also approved the extension of our buyback program for up to 3% of our outstanding shares.
+
+Before passing on to Marcelo, I would like to talk about our announcement last week regarding the new Carajas program. As you know, Carajas is one of the best provinces of critical minerals in the world, including for the highest grade iron ore. Under this new program, we are creating a dedicated multifunctional team with increased investments in exploration in order to accelerate the development of the regional endowment. We are confident this new approach will enhance substantially our ability to develop accretive projects to our shareholders, in line with our long-term strategy.
+
+=== FALA DO CFO ===
+
+Marcelo Bacci (EVP Finanças e RI): Thanks, Gustavo, and good morning, everyone. It's great to be here for my first quarterly conference call with Vale.
+
+Let's take a look at our Q4 financial performance. Our pro forma EBITDA was just over $4.1 billion in Q4 2024, 9% higher quarter on quarter. There were two main factors that contributed to this performance. First, our portfolio optimization strategy allowed for an improvement in our realized all-in premiums of $2.9 per ton sequentially, with a positive impact of $190 million in our EBITDA. And second, our cost efficiency program continues to yield positive results with our unit cost declining across all of our commodities year on year.
+
+This quarter, our iron ore C1 cash costs excluding third-party purchases came in at $18.8 per ton, almost 10% lower year on year. This is the lowest C1 cash cost since the first quarter of 2022. The improvement was primarily driven by our efficiency initiatives and a better production mix with higher volumes coming from the Northern system.
+
+Our all-in cost performance was solid with a reduction of over 5% year on year, reaching $49.5 per ton in the quarter.
+
+Looking at our Energy Transition Metals business, we also saw an overall decrease in all-in costs. In copper, all-in costs were the lowest since Q4 2020, reaching about $1,100 per metric ton driven by higher byproduct revenues from Salobo, primarily composed of gold as well as by improved operational performance. In nickel, all-in costs totaled about $13,900 per metric ton, the lowest since Q1 2022, driven by higher byproduct revenues, especially from copper and PGMs.
+
+Now moving on to cash generation. Our recurring free cash flow generation reached roughly $800 million in Q4, $300 million higher than in Q3. This increase was primarily driven by higher EBITDA and a positive impact from working capital, thanks to strong cash collections in Q4 from Q3 iron ore sales.
+
+Our recurring free cash flow was used to address one-off items, such as the advanced payment of $656 million for railway concession contracts. Renegotiating a concession contract allowed us to reduce contract risks and optimize our obligations with a small impact in our provision while securing concession extension until 2057.
+
+I would like to highlight that the cash outflows related to the Samarco and Brumadinho commitments are already provisioned in our balance sheet and are part of our expanded net debt concept. Our expanded net debt remained stable at $16.5 billion in the quarter. We are maintaining our $10 billion to $20 billion expanded net debt range, aiming to be at around the middle.
+
+Vale will pay $2 billion in shareholder remuneration in March, while our board also approved a new buyback program of up to 120 million shares. This shows our continued focus on returning value to shareholders.
+
+=== ENCERRAMENTO DO CEO ANTES DO Q&A ===
+
+Gustavo Pimenta (CEO): Thanks, Marcelo. Before opening up for the Q&A session, I would like to reinforce the key takeaways from today's call. We have made substantial progress in addressing the key overhangs Vale was facing in recent years. We continue to advance on our operational excellence agenda, consistently delivering on the production guidance while capturing sustainable efficiency gains. Our unique endowment provides us with the flexibility and optionality to adapt our portfolio mix to any market scenario. And finally, our disciplined approach toward capital allocation will continue to ensure healthy shareholder remuneration and value creation. Now let's start the Q&A session.
+
+=== SESSÃO DE PERGUNTAS E RESPOSTAS (Q&A) ===
+
+--- PERGUNTA 1 ---
+
+Daniel Sasson (Itau BBA): Thank you so much. Good morning everyone. My first question is related to your sales mix. It's becoming clear that the quality concentration is increasing. But it did increase your inventories by almost 6 million tons in the second half of last year. If you could comment a little bit on how your inventory levels are, if you're comfortable with them? And how that is associated with the company's commercial strategy — if maybe we could see Vale more and more focusing on value over volumes over the next years?
+
+And my second question: when we look at your production guidance for this year, relatively flat versus 2024, is it implicit that you are thinking about lower purchases from third parties, which could actually help your cost performance? Your delivery-in-China cost was even lower than your mid-to-long-term guidance. How can we think about this cost evolution for 2025 onwards?
+
+Gustavo Pimenta (CEO): Hey, Daniel, Gustavo here. So let me start with the second one, and then I'll pass to Rogerio to talk about the sales mix. The ramp-up of Vargem Grande and Capanema will take some time to reach full capacity. This will give us more flexibility to play along the value over volume strategy. As we mentioned last year, we could have done more volumes in Q4 than we actually did. So we are taking a similar approach in our projections for this year. Despite projecting something similar to last year, I think this year will probably have greater flexibility to play on value over volume.
+
+Rogerio Nogueira (EVP Comercial): Thank you, Daniel. I think you put it exactly right. When we discuss our product portfolio, our focus is on value. We're not looking only at price realization, not only at volumes or costs, not only at inventories — it is about the optimization of cash flows. Long-term, our direction is not going to change: we're focused on decarbonization and the mega hubs. Short term, we're looking into what the market is actually doing, what are the margins of our clients, what are the trends in premiums. The decision at this point was to beneficiate iron ore. We thought that moving our product portfolio toward a mid-grade product would yield better results, and that's what we've done. Our expectation for the coming quarters is that this will be the direction we will take, and you should see some increase in inventories as a result of that. But our focus is to work on a flexible portfolio with the view of maximizing value.
+
+--- PERGUNTA 2 ---
+
+Carlos De Alba (Morgan Stanley): My first question is for Shaun on Base Metals. Could you provide more details on the progress achieved so far? What sort of results do you expect on the cost side and production throughout the year, and the sequence of getting to the cost target for the year?
+
+And my second question for Gustavo: regarding the situation with the municipalities in Brazil impacted by the Mariana accident — we understand that May 6 is the deadline for them to decide whether to join the comprehensive agreement or continue to pursue lawsuits in the U.K. What would the company do if the majority of the municipalities decided not to join the Brazilian agreement?
+
+Shaun Usmar (CEO Vale Base Metals): Carlos, thank you for the questions. It's been four and a half months, and I've been really impressed with the progress the team has made. Our priorities remain to unlock the endowment, but it needs to be enabled through lower cost, higher productivity and agility. In that period, the team has focused on overhead: we're on track for about a third of our overhead reduction, a run rate of nearly $200 million a year — which is in excess of what I would have anticipated. 
+
+We just had a record year in Salobo — shovel productivities improved about 5% last year, truck availability is about 10% higher. We've seen significantly more meters drilled as we look to unlock the endowment. Even Sossego as a more mature mine has seen a 28% improvement in utilization. Copper is very much on track for our guidance through the year. Nickel costs are trending downward, with further support expected as the VBME ramp-up continues.
+
+Gustavo Pimenta (CEO): On Mariana, our view is that the settlement in Brazil that we successfully achieved last year is fair, comprehensive, and it is the best alternative and the best path for the reparation to evolve and move forward. We continue to believe this is the best alternative for all constituents. It provides a fair expedited payment mechanism for all related parties. We have seen very good traction in terms of delivering on the commitments we've signed. We continue to believe this is going to be the ideal and preferred path for everybody.
+
+--- PERGUNTA 3 ---
+
+Caio Ribeiro (Bank of America Merrill Lynch): Good morning. My first question is on your recent decision to launch a strategic review for Thompson, which you mentioned could include a potential sale of the asset. Could you also contemplate other assets in Canada such as Voisey's Bay or Sudbury as candidates for divestment? And what specifically about Thompson leads you to consider a potential sale?
+
+My second question is on the recent discussions in China to implement supply side reforms for the steel industry — similar to 2016-2017. How do you see the supply side reform playing out this time? And is that something you see having a material impact for the iron ore business?
+
+Shaun Usmar (CEO Vale Base Metals): Caio, thanks for the question. Our focus is on making sure we unlock the potential of the portfolio and endowment. Thompson is a higher-cost, lower-endowment operation relative to our other assets. So in a portfolio optimization context, it makes sense to evaluate this asset. Regarding Voisey's Bay and Sudbury — those are different situations. Voisey's Bay is one of the highest-grade nickel assets in the world and Sudbury has a very long reserve life. Those are strategically very different to Thompson. The review is specifically focused on Thompson and we expect to conclude it in the second half of this year.
+
+Gustavo Pimenta (CEO): On China supply side reform — we are watching that very closely. The 2016-2017 situation was very impactful for the iron ore business, leading to higher steel margins and ultimately higher iron ore demand. If China implements meaningful supply side reforms this time, we believe it could provide significant support to iron ore prices and volumes. However, it's too early to draw conclusions on the scope and timing. Our strategy is to be flexible with our portfolio so we can respond to any market scenario quickly.
+
+=== FIM DA TRANSCRIÇÃO ===
