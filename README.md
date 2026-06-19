@@ -10,8 +10,7 @@ Três arquivos Python: prompts.py guarda o prompt, engine.py faz a leitura da tr
 O prompt pede JSON com estrutura exata e fixa. As regras obrigatórias no final do prompt (ex: "exatamente 3 itens em perguntas_analistas") reduzem alucinação e garantem consistência. Temperature 0.2 para respostas mais determinísticas. A instrução de citação literal nos red flags e trechos evita que o modelo parafraseie.
 3. Tempo gasto
 
-Aproximadamente 6 horas.
-4. Por que me aprofundei nesse case
+Aproximadamente 6 horas
 
 Escolhi entregar os dois cores sem extensões. O Case 1 é mais complexo por exigir análise linguística com citações literais, então priorizei garantir que funcionasse bem antes de adicionar extensões.
 5. Três limitações mais sérias
@@ -36,8 +35,7 @@ Mesma estrutura: prompts.py, engine.py e main.py. O usuário digita o cenário n
 Prompt com estrutura JSON explícita e regras obrigatórias de quantidade (exatamente 5 setores, 3 tickers). Instrução de usar apenas tickers reais da B3 reduz alucinação. Temperature 0.3 para equilíbrio entre consistência e qualidade analítica.
 3. Tempo gasto
 
-Aproximadamente 4 horas.
-4. Por que me aprofundei nesse case
+Aproximadamente 4 horas
 
 Mesmo raciocínio — priorizei entregar os dois cores funcionando corretamente a aprofundar só um.
 5. Três limitações mais sérias
